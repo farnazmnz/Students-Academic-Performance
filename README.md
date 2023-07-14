@@ -3,3 +3,4 @@ Deep learning project using Neural Network from scratch to predict acceptance or
 
 Dataset : https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
 
+project2.ipynb implement with keras
