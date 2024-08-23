@@ -3,4 +3,4 @@ Deep learning project using Neural Network from scratch to predict pass or fail 
 
 Dataset : https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
 
-project2.ipynb implemented with keras
+project2.ipynb was implemented with keras
